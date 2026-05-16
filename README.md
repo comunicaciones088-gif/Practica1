@@ -1,4 +1,4 @@
-# Practica1
+# Practica1.ipynb
 ## HERRAMIENTAS DE INTELIGENCIA ARTIFICIAL  
 Alumna: Karla Abarca
 
